@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @MgKaung00
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# ⚡ Kaung Htet Win (Pouk Sa)
 
-<!---
-MgKaung00/MgKaung00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Coding Vibe](https://i.ibb.co/HfZTN1HN/file-0000000002d471fa9be9437ba08609ad.png)
+
+💻 Code • Build • Earn  
+
+🚀 About Me  
+- ⚡ Focused on Bot Development & Automation  
+- 🧠 Learning fast, building faster  
+- 📈 Creating online income systems  
+
+🛠 Skills  
+- Telegram Bots  
+- API Integration  
+- Basic Web Development  
+
+📫 Contact  
+- Telegram: https://t.me/mgK755  
+
+⚡ Status  
+Build in silence. Win loud. 😈
