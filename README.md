@@ -1,7 +1,7 @@
-# ⚡ Kaung Htet Win (Pouk Sa)
+# ⚡ Mg Kaung
 
 <p align="center">
-  <img src="https://i.ibb.co/HfZTN1HN/file-0000000002d471fa9be9437ba08609ad.png" width="450" alt="Coding Vibe">
+  <img src="https://i.ibb.co/BVH2NxDL/IMG-20260709-114846-394.jpg" width="450" alt="Coding Vibe">
 </p>
 
 <p align="center">
